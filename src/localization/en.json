@@ -1,0 +1,16 @@
+{
+  "enter_name": "Enter Product User Name",
+  "search": "SEARCH",
+  "search_screen": "Search Screen",
+  "product_details": "Product Details",
+  "loading": "Loading",
+  "empty": "Empty",
+  "email":"Email",
+  "password":"Password",
+  "login":"Login",
+  "auth":"Auth Screen",
+  "logout":"Logout",
+  "continue_as_guest":"Continue as guest",
+  "wish_list":"WhishList Screen",
+  "please_login":"Please Login",
+}
